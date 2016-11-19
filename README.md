@@ -14,7 +14,7 @@ Indivdial config for some chinese fonts. (simsun,simhei,msyh ..etc)
 
 Exclusion for Touhou series , ConEmu and more.
 
-Low resolution screen please use LRS , High resolution screen please use HRS.
+Low resolution screen please use Classic , High resolution screen please use Clear.
 
 ## How to use
 
