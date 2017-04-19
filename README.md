@@ -10,13 +10,11 @@ http://www.mactype.net
 
 No font Changing , just fonts reredering.
 
-Indivdial config for some chinese fonts. (simsun,simhei,msyh ..etc)
+Indivdial config for some chinese fonts and more other language. ( simsun , simhei , msyh .. etc )
 
 Exclusion for Touhou series , ConEmu and more.
 
-Low resolution screen please use Classic , High resolution screen please use Clear.
-
 ## How to use
 
-Put it into MactypePath/ini  , then use Macwiz.exe to load it.
+Put it into $MactypePath/ini  , then use Macwiz.exe to load it.
 
