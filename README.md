@@ -16,5 +16,5 @@ Exclusion for Touhou series , ConEmu and more.
 
 ## How to use
 
-Put it into $MactypePath/ini  , then use Macwiz.exe to load it.
+Put it into $MactypePath/ini , then use Macwiz.exe to load it.
 
