@@ -4,7 +4,8 @@
 
 A Config File for Mactype.
 
-http://www.mactype.net
+"Clear" version 1.9 applies for MacType 2018.1-beta5. 
+
 
 ## Features
 
@@ -17,4 +18,10 @@ Exclusion for Touhou series , ConEmu and more.
 ## How to use
 
 Put it into $MactypePath/ini , then use Macwiz.exe to load it.
+
+## Versions
+
+Deprecated is now considered with poor quality.
+
+Please use clear version instead. 
 
