@@ -13,7 +13,8 @@ No font Changing , just fonts reredering.
 
 Indivdial config for some chinese fonts and more other language. ( simsun , simhei , msyh .. etc )
 
-Exclusion for Touhou series , ConEmu and more.
+Exclusion for ConEmu and more.
+
 
 ## How to use
 
@@ -21,7 +22,7 @@ Put it into $MactypePath/ini , then use Macwiz.exe to load it.
 
 ## Versions
 
-Deprecated is now considered with poor quality.
+"Deprecated" ini is now considered with poor quality.
 
-Please use clear version instead. 
+Please use "clear" version instead. 
 
