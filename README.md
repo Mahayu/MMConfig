@@ -2,7 +2,7 @@
 
 ## Description
 
-Sereval config File for Mactype.
+Sereval config files for Mactype.
 
 "Clear" version 1.9x applies for MacType 2018.1-beta5. 
 
@@ -25,4 +25,6 @@ Put it into $MactypePath/ini , then use Macwiz.exe to load it.
 "Deprecated" ini is now considered with poor quality.
 
 Please use "clear" version instead.
+
+In some cases you may use "clear#" version.
 
