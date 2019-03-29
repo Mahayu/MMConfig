@@ -2,16 +2,16 @@
 
 ## Description
 
-A Config File for Mactype.
+Sereval config File for Mactype.
 
-"Clear" version 1.9 applies for MacType 2018.1-beta5. 
+"Clear" version 1.9x applies for MacType 2018.1-beta5. 
 
 
 ## Features
 
 No font Changing , just fonts reredering.
 
-Indivdial config for some chinese fonts and more other language. ( simsun , simhei , msyh .. etc )
+Indivdial config for some chinese fonts and more other language. ( simsun , simhei , msyh , sarasa series .. )
 
 Exclusion for ConEmu and more.
 
@@ -24,5 +24,5 @@ Put it into $MactypePath/ini , then use Macwiz.exe to load it.
 
 "Deprecated" ini is now considered with poor quality.
 
-Please use "clear" version instead. 
+Please use "clear" version instead.
 
