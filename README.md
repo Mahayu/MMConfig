@@ -4,21 +4,21 @@
 
 Sereval config files for Mactype.
 
-"Clear" version 1.9x applies for MacType 2018.1-beta5. 
+"Clear" version 1.9x(or later) applies for MacType 2018.1-beta5.
 
 
 ## Features
 
-No font Changing , just fonts reredering.
+- Just fonts rendering.
 
-Indivdial config for some chinese fonts and more other language. ( simsun , simhei , msyh , sarasa series .. )
+- *Indivdial* config for some asian fonts.
 
-Exclusion for ConEmu and more.
+- Exclusion for games and more.
 
 
 ## How to use
 
-Put it into $MactypePath/ini , then use Macwiz.exe to load it.
+Put it into $Mactypepath$/ini , then use Macwiz.exe to load it.
 
 ## Versions
 
