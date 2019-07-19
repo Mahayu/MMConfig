@@ -11,7 +11,7 @@ Sereval config files for Mactype.
 
 - Just fonts rendering.
 
-- *Indivdial* config for some asian fonts.
+- *Indivdial* config for some asian fonts.(like Microsoft Yahei,Sarasa,Yu Gothic)
 
 - Exclusion for games and more.
 
