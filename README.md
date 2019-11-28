@@ -4,27 +4,26 @@
 
 Sereval config files for Mactype.
 
-"Clear" version 1.9x(or later) applies for MacType 2018.1-beta5.
+"Clear" version 1.9x applies for newest MacType.
 
 
 ## Features
 
-- Just fonts rendering.
+- General Fonts rendering.
 
 - *Indivdial* config for some asian fonts.(like Microsoft Yahei,Sarasa,Yu Gothic)
 
-- Exclusion for games and more.
+- Exclusions for games and more.
 
 
 ## How to use
 
-Put it into $Mactypepath$/ini , then use Macwiz.exe to load it.
+Put it into $MactypePath$/ini , then use Macwiz.exe to load it.
 
 ## Versions
 
-"Deprecated" ini is now considered with poor quality.
-
-Please use "clear" version instead.
+"Deprecated" ini is now considered with poor quality,
+use "clear" version instead.
 
 In some cases you may use "clear#" version.
 
