@@ -1,17 +1,15 @@
 # MMConfig
 
-## Description
+## Summary
 
 Sereval config files for Mactype.
-
-"Clear" version 1.9x applies for newest MacType.
 
 
 ## Features
 
 - General Fonts rendering.
 
-- *Indivdial* config for some asian fonts.(like Microsoft Yahei,Sarasa,Yu Gothic)
+- *Indivdial* config for some asian fonts.
 
 - Exclusions for games and more.
 
